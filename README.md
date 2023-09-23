@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -27,6 +27,10 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
