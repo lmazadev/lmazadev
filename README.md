@@ -2,7 +2,7 @@
 lmazadev/lmazadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="left">Hello world! I'm Lewis Maza, frontend developer and UX designer from Venezuela.</h3>
+<h4 align="left">Hello world! I'm Lewis Maza, frontend developer and UX designer from Venezuela.</h4>
 
 ###
 
@@ -22,6 +22,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="30" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
