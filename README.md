@@ -2,7 +2,7 @@
 lmazadev/lmazadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="left">Hello world! I'm Lewis Maza, backend developer and UX designer.</p>
+<h3 align="left">Hello world! I'm Lewis Maza, backend developer and UX designer.</h3>
 
 ###
 
